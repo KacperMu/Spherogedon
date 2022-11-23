@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg9522"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Mappick.svg">
+  <defs
+     id="defs9516">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10681">
+      <stop
+         style="stop-color:#96f9fd;stop-opacity:1;"
+         offset="0"
+         id="stop10677" />
+      <stop
+         style="stop-color:#96f9fd;stop-opacity:0;"
+         offset="1"
+         id="stop10679" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10681"
+       id="radialGradient10685"
+       cx="105.33494"
+       cy="20.094278"
+       fx="105.33494"
+       fy="20.094278"
+       r="101.12328"
+       gradientTransform="matrix(1,0,0,0.12791906,0,17.523838)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="373.35444"
+     inkscape:cy="852.89873"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9519">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#radialGradient10685);stroke:#000090;stroke-width:3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 4.9136904,20.397024 27.078176,8.6586847 H 185.77529 L 205.70822,20.166966 186.02709,31.529874 H 27.592261 Z"
+       id="path10675"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10721"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Monterchi Sans';-inkscape-font-specification:'Monterchi Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0064d0;fill-opacity:1;stroke:#000000;stroke-width:2.1354332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,0,3.7041668)"><flowRegion
+         id="flowRegion10723"
+         style="fill:#0064d0;fill-opacity:1;stroke:#000000;stroke-width:2.1354332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+           id="rect10725"
+           width="600.75183"
+           height="86.442291"
+           x="102.34271"
+           y="32.725739"
+           style="fill:#0064d0;fill-opacity:1;stroke:#000000;stroke-width:2.1354332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara10727"
+         style="font-size:74.66666412px;fill:#0064d0;fill-opacity:1;stroke:#000000;stroke-width:2.1354332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WYBÓR MAPY</flowPara></flowRoot>  </g>
+</svg>

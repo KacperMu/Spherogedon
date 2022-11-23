@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="AuthorsEN.svg"
+   inkscape:export-filename="C:\Users\Arvenox\PLAY.png"
+   inkscape:export-xdpi="193"
+   inkscape:export-ydpi="193">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8223">
+      <stop
+         style="stop-color:#970000;stop-opacity:1;"
+         offset="0"
+         id="stop8219" />
+      <stop
+         style="stop-color:#970000;stop-opacity:0;"
+         offset="1"
+         id="stop8221" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6305"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#95eef6;stop-opacity:1;"
+         offset="0"
+         id="stop6303" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8223"
+       id="linearGradient8227"
+       x1="190.22572"
+       y1="179.57462"
+       x2="578.82739"
+       y2="179.57462"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="231.16813"
+     inkscape:cy="869.36127"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="12.552844,257.97996"
+       orientation="1,0"
+       id="guide7729"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="190.55435,213.88049"
+       orientation="1,0"
+       inkscape:locked="false"
+       id="guide7733" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#7800ff;stroke-width:3.96499993;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0;paint-order:normal"
+       d="M 12.552844,39.020052 24.369263,83.119521 H 190.55435 L 178.73793,39.020052 Z"
+       id="path4538"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="path4542"
+       cx="49.420387"
+       cy="20.60491"
+       rx="11.622767"
+       ry="4.2522321" />
+    <path
+       style="opacity:1;fill:#cbffff;fill-opacity:1;stroke:none;stroke-width:8.81385814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8.81385814, 17.62771628000000135;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 97.585135,305.00212 c -0.222773,-0.88393 -9.319185,-34.875 -20.214249,-75.53571 L 57.561679,155.53783 363.26149,155.35844 c 168.1349,-0.0987 305.92818,0.062 306.2073,0.35714 0.27911,0.2951 9.41956,33.8044 20.31209,74.46511 10.89254,40.66072 19.95918,74.49107 20.14809,75.17857 0.32672,1.18907 -14.58003,1.25 -305.79767,1.25 H 97.990176 Z"
+       id="path4842"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1.25;font-family:'Monterchi Sans';-inkscape-font-specification:'Monterchi Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.92900002;fill:#2e00ae;fill-opacity:1;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,0,12.700002)"><flowRegion
+         id="flowRegion7777"
+         style="font-size:74.66666412px;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#2e00ae;fill-opacity:1;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+           id="rect7779"
+           width="672.7616"
+           height="166.67516"
+           x="47.443821"
+           y="147.47736"
+           style="font-size:74.66666412px;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#2e00ae;fill-opacity:1;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara7781"
+         style="fill:#2e00ae;fill-opacity:1;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">AUTHORS</flowPara></flowRoot>  </g>
+</svg>

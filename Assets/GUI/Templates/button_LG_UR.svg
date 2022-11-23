@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000px"
+   height="200px"
+   viewBox="0 0 1000 200"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="button_LG_UR.svg">
+  <defs
+     id="defs9440" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="460.58127"
+     inkscape:cy="61.537312"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="970.7566,90.913729"
+       orientation="1,0"
+       id="guide9998"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9443">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ffff;fill-opacity:0.1967655;stroke:#0000aa;stroke-width:17.00787354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 973.33521,25.14358 H 36.923799 l 42.79259,159.70413 H 973.33521 Z"
+       id="path10000"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Monterchi Sans';-inkscape-font-specification:'Monterchi Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#006600;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.89133858;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(0,36)"><flowRegion
+         id="flowRegion10004"
+         style="fill:#006600;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.89133858;stroke-miterlimit:4;stroke-dasharray:none"><rect
+           id="rect10006"
+           width="893.61884"
+           height="159.70413"
+           x="77.137779"
+           y="25.143585"
+           style="fill:#006600;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.89133858;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara10008"
+         style="font-size:96px;fill:#006600;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.89133858;stroke-miterlimit:4;stroke-dasharray:none">SAMPLE TEXT</flowPara></flowRoot>  </g>
+</svg>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="QuitMenuES.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8283">
+      <stop
+         style="stop-color:#f6b8fb;stop-opacity:1;"
+         offset="0"
+         id="stop8279" />
+      <stop
+         style="stop-color:#f6b8fb;stop-opacity:0;"
+         offset="1"
+         id="stop8281" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6305"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#95eef6;stop-opacity:1;"
+         offset="0"
+         id="stop6303" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8283"
+       id="linearGradient8285"
+       x1="190.03596"
+       y1="179.57461"
+       x2="579.01715"
+       y2="179.57461"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="274.69694"
+     inkscape:cy="869.36127"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.29999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
+       id="path4542"
+       cx="49.420387"
+       cy="20.60491"
+       rx="11.622767"
+       ry="4.2522321" />
+    <path
+       style="fill:none;stroke:#00007b;stroke-width:3.96499991;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 190.55435,39.020052 178.73793,83.119521 H 12.55284 L 24.36926,39.020052 Z"
+       id="path4538"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#a4c9ea;fill-opacity:1;stroke:none;stroke-width:2.33200002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.33199994, 4.66399986999999960;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 177.28779,80.698477 c 0.0589,-0.233874 2.4657,-9.227344 5.34835,-19.98549 l 5.24119,-19.56027 -80.88307,-0.04746 c -44.485696,-0.02611 -80.943501,0.0164 -81.017352,0.09449 -0.07385,0.07808 -2.492258,8.94408 -5.37424,19.702226 -2.881985,10.758149 -5.280867,19.709096 -5.330849,19.890997 -0.08645,0.314608 3.857633,0.330729 80.908966,0.330729 h 80.999835 z"
+       id="path4842"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1.25;font-family:'Monterchi Sans';-inkscape-font-specification:'Monterchi Sans';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.92900002;fill:#0060af;fill-opacity:0.80592992;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,0,12.700002)"><flowRegion
+         id="flowRegion7777"
+         style="font-size:74.66666412px;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0060af;fill-opacity:0.80592992;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
+           id="rect7779"
+           width="672.7616"
+           height="166.67516"
+           x="47.443821"
+           y="147.47736"
+           style="font-size:74.66666412px;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#0060af;fill-opacity:0.80592992;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara7781"
+         style="fill:#0060af;fill-opacity:0.80592992;stroke:#000000;stroke-width:1.37952757;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">SALIR AL MENÚ</flowPara></flowRoot>  </g>
+</svg>
